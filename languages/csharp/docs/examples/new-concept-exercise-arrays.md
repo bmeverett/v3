@@ -80,8 +80,6 @@ languages
             └── arrays
                 ├── .docs
                 |   ├── after.md
-                |   ├── cli.md
-                |   ├── debug.md
                 |   ├── hints.md
                 |   ├── instructions.md
                 |   └── introduction.md
@@ -160,8 +158,8 @@ This exercise could benefit from having an [analyzer][csharp-analyzer] that can 
 [csharp-docs-concept-exercises-floating-point-numbers]: https://github.com/exercism/v3/tree/master/languages/csharp/exercises/concept/numbers-floating-point
 [csharp-analyzer]: https://github.com/exercism/csharp-analyzer
 [csharp-representer]: https://github.com/exercism/csharp-representer
-[csharp-docs-cli.md]: https://github.com/exercism/v3/blob/master/languages/csharp/exercises/.docs/cli.md
-[csharp-docs-debug.md]: https://github.com/exercism/v3/blob/master/languages/csharp/exercises/.docs/debug.md
+[csharp-docs-cli.md]: https://github.com/exercism/v3/blob/master/languages/csharp/exercises/shared/.docs/cli.md
+[csharp-docs-debug.md]: https://github.com/exercism/v3/blob/master/languages/csharp/exercises/shared/.docs/debug.md
 [csharp-docs-after.md]: https://github.com/exercism/v3/blob/master/languages/csharp/exercises/concept/numbers-floating-point/.docs/after.md
 [csharp-docs-hints.md]: https://github.com/exercism/v3/blob/master/languages/csharp/exercises/concept/numbers-floating-point/.docs/hints.md
 [csharp-docs-introduction.md]: https://github.com/exercism/v3/blob/master/languages/csharp/exercises/concept/numbers-floating-point/.docs/introduction.md
